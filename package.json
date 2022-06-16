@@ -1,0 +1,19 @@
+{
+  "name": "kurbanlik",
+  "version": "1.0.0",
+  "description": "kurbanlik website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N1ghtrain/kurbanlik.git"
+  },
+  "author": "N1ghtrain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N1ghtrain/kurbanlik/issues"
+  },
+  "homepage": "https://github.com/N1ghtrain/kurbanlik#readme"
+}
